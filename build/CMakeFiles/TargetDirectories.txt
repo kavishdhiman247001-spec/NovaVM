@@ -1,0 +1,3 @@
+/Users/kumargaurav/Downloads/NovaVM/build/CMakeFiles/novavm-engine.dir
+/Users/kumargaurav/Downloads/NovaVM/build/CMakeFiles/edit_cache.dir
+/Users/kumargaurav/Downloads/NovaVM/build/CMakeFiles/rebuild_cache.dir
